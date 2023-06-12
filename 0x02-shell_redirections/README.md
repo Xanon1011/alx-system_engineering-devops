@@ -1,3 +1,4 @@
 0x02. Shell, I/O Redirections and filters
 hello world script
 created Confused smiley script
+Display the content of the /etc/passwd file.
